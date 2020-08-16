@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuanLyNhanSu</string>
+    <string name="btnThem">Thêm</string>
+    <string name="btnThoat">Thoát</string>
+    <string name="lblName">Họ và tên: </string>
+    <string name="lblBangCap">Bằng Cấp: </string>
+    <string name="rdoTC">TC</string>
+    <string name="rdoCD">CĐ</string>
+    <string name="rdoDH">ĐH</string>
+    <string name="lblSoThich">Sở thích</string>
+    <string name="chkDocSach">Đọc sách</string>
+    <string name="chkXemPhim">Xem phim</string>
+    <string name="lblKhac">Khác</string>
+    <string name="btnColor">#FF9900</string>
+    <string name="menuItemUpdate">Update</string>
+    <string name="menuItemDelete">Delete</string>
+    <string name="menuItemSave">Save</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
